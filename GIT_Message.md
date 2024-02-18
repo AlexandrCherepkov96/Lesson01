@@ -20,6 +20,11 @@ git commit -m "message"
 ```sh
 git log
 ```
-
+## комманда git log --oneline
+Флаг --oneline записывает каждый коммит в одну строку. По умолчанию отображаются только идентификаторы коммитов и первые строки комментариев к ним.
+```sh
 git log --oneline
+```
+## Комманда git checkout
+
 git checkout
