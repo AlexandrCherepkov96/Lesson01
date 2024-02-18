@@ -25,6 +25,7 @@ git log
 ```sh
 git log --oneline
 ```
-## Комманда git checkout
+## Комманда **git** checkout
+**Git checkout** — команда, обновляющая файлы в рабочем каталоге до совпадения с состоянием в индексе или в определенной ветке. Во вселенной *Git* данная команда имеет важную роль в управлении состоянием рабочего каталога и в переходе между разными снапшотами истории проекта.
 
-git checkout
+git [checkout](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley "кайф") 
