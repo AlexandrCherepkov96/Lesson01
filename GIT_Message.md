@@ -39,3 +39,7 @@ git [checkout](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 git branch
 ```
 
+Создание новой ветки
+```sh
+git branch <имя_ветки>
+```
