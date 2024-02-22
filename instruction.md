@@ -25,3 +25,5 @@
 
 ## Web ссылки
 Текст [пример ссылки](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley "всплывающая подсказка")
+
+# Как добовлять картинки в Markdown
