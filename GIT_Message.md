@@ -31,3 +31,11 @@ git log --oneline
 git [checkout](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley "кайф") 
 
 добавили еще какой то текст для создания ошибки
+
+ссылка на рикрол
+
+Отображение всех веток
+```sh
+git branch
+```
+
