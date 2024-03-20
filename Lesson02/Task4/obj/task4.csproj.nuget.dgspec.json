@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\task4\\task4.csproj": {}
+    "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\Task4\\task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\task4\\task4.csproj": {
+    "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\Task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\task4\\task4.csproj",
+        "projectUniqueName": "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\Task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\task4\\task4.csproj",
+        "projectPath": "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\Task4\\task4.csproj",
         "packagesPath": "C:\\Users\\1645284\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\task4\\obj\\",
+        "outputPath": "C:\\Users\\1645284\\Dropbox\\Мой ПК (LAPTOP-DLMS8SSI)\\Desktop\\учеба\\lesson01\\Lesson02\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1645284\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -21,14 +21,14 @@ for(int j = 0; j < n; j++)
         max = array[j];
     }
 }
-Console>WriteLine(max);
+Console.WriteLine(max);
 
-max = arrae[0];
-foreach(int e in array0)
+max = array[0];
+foreach(int e in array)
 {
     if(e > max)
     {
         max = e;
     }
 }
-Console>WriteLine(max);
+Console.WriteLine(max);
